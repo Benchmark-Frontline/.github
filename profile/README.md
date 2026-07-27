@@ -2,21 +2,21 @@
 
 [中文](./README.zh-CN.md)
 
-An open community for AI model evaluation, data research, and AI research practice.
+An open peer community for AI model evaluation, data research, and AI research practice.
 
-We bring together researchers, students, engineers, and everyone interested in model evaluation to discuss questions, exchange papers and methods, share technical and practical experience, and build reusable open-source work together.
+We bring together researchers, students, engineers, and everyone interested in model evaluation to discuss questions, exchange papers and methods, and share technical and practical experience.
 
 ## Focus areas
 
 - Model evaluation and benchmark design
 - Data quality, annotation, and data research
 - Paper discussions and technical sharing
-- Open-source tools, datasets, and reproducible experiments
-- Community collaboration and practical exchange
+- Open-source tools, datasets, and reproducible research practice
+- Community discussion and shared learning
 
 ## Get involved
 
-Follow our public projects, start a discussion, share useful resources, or contribute to the community.
+Start a discussion, share useful resources, or explore the [community space](../community/README.md) to see how conversations and topic circles work.
 
 To join community collaboration, email:  
 leonliuzx4paper@gmail.com
