@@ -16,7 +16,9 @@ We bring together researchers, students, engineers, and everyone interested in m
 
 ## Get involved
 
-Start a discussion, share useful resources, or explore the [community space](../community/README.md) to see how conversations and topic circles work.
+- **[Discussions](https://github.com/orgs/Benchmark-Frontline/discussions)** — questions, papers, cases, and perspectives.
+- **[Community space](../community/README.md)** — how conversations and topic circles work.
+- **Join / contact** — start with a discussion, or email us about organization membership and collaboration.
 
 To join community collaboration, email:  
 leonliuzx4paper@gmail.com

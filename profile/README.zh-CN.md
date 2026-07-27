@@ -16,7 +16,9 @@
 
 ## 如何参与
 
-欢迎发起讨论、分享资料，或前往[社区空间](../community/README.zh-CN.md)了解讨论与专题小组如何运转。
+- **[讨论区](https://github.com/orgs/Benchmark-Frontline/discussions)** —— 问题、论文、案例与观点。
+- **[社区空间](../community/README.zh-CN.md)** —— 了解讨论与专题小组如何运转。
+- **加入 / 联系我们** —— 可先从发起讨论开始；如需申请加入组织或咨询协作，也欢迎邮件联系。
 
 如希望加入社区协作，请发送邮件至：  
 leonliuzx4paper@gmail.com
