@@ -2,7 +2,7 @@
 
 [中文](./README.zh-CN.md)
 
-Benchmark Frontline is first and foremost a place for peer exchange and shared learning. This page explains how the community moves from conversation to deeper exploration without turning participation into assignments.
+Benchmark Frontline is first and foremost a place for peer exchange and shared learning. This page explains how conversations can naturally grow into deeper exploration.
 
 ## How the community moves
 
@@ -12,11 +12,11 @@ Benchmark Frontline is first and foremost a place for peer exchange and shared l
 4. **Shared memory** — With participants' consent, useful links, notes, or code can remain here so later conversations can build on them.
 5. **Reflection and next topics** — The group reflects briefly and returns to open conversation.
 
-Participation is voluntary. There is no fixed workload and no requirement to produce a deliverable.
+Participation is voluntary and flexible. Everyone can take part in the ways that feel meaningful to them.
 
 ## Topic board
 
-This is a lightweight public index, not a task board.
+This is a lightweight public index for following the community's conversations and topic circles.
 
 | Status | What it means |
 | --- | --- |
