@@ -17,7 +17,7 @@ We bring together researchers, students, engineers, and everyone interested in m
 ## Get involved
 
 - **[Discussions](https://github.com/orgs/Benchmark-Frontline/discussions)** — questions, papers, cases, and perspectives.
-- **[Community space](../community/README.md)** — how conversations and topic circles work.
+- **[Community space](../community/README.md)** and **[topic board](https://github.com/orgs/Benchmark-Frontline/projects/1)** — how conversations and topic circles work.
 - **Join / contact** — start with a discussion, or email us about organization membership and collaboration.
 
 To join community collaboration, email:  

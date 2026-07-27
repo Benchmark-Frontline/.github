@@ -16,7 +16,7 @@ Participation is voluntary and flexible. Everyone can take part in the ways that
 
 ## Topic board
 
-This is a lightweight public index for following the community's conversations and topic circles.
+This is a lightweight public index for following the community's conversations and topic circles. The live [topic board](https://github.com/orgs/Benchmark-Frontline/projects/1) follows the same structure.
 
 | Status | What it means |
 | --- | --- |
